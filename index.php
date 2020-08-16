@@ -11,12 +11,14 @@
 <body class="">
 
     <div class="table section">  
-        <div class="row navbar  ">
+        <div class="row">
            
-        <h2 class="col-4">Bakare yusuf</h2>
-            <a href="" class="col-2 nav-link" >About</a>
-            <a href="" class="col-2 nav-link">Projects</a>
-            <a href="" class="col-2 nav-link">Contact</a>
+        <h2 class="">Bakare yusuf</h2>
+        </div>
+        <div class="row">
+            <a href="" class="col-4 nav-link" >About</a>
+            <a href="" class="col-4 nav-link">Projects</a>
+            <a href="" class="col-4 nav-link">Contact</a>
         </div>
 
         <div class="row section container">
