@@ -39,12 +39,12 @@
     </div>
     -->
        <div class="name">Bakare Yusuf
-      <p> <a href="https://github.com/tynzn"><Github</a>
+       </div>
+      <div class="logo"> <a href="https://github.com/tynzn">Github</a>
       <a href="https://twitter.com/Yeagit_ng">Twitter</a>
-    
-    </p>
+</div>
 
-       </div> 
+        
 
        
         
