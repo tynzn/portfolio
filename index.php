@@ -38,7 +38,16 @@
         <div class="col-sm-2 name" ><h3>Am </h3></div>
     </div>
     -->
-       <div class="name">Bakare Yusuf</div>   
+       <div class="name">Bakare Yusuf
+      <p> <a href="https://github.com/tynzn"><img src="img/Github-Mark.png" alt="" class="logo-img"></a>
+      <a href="https://twitter.com/Yeagit_ng"><img src="img/twitter.png" alt="" class="logo-img"></a>
+    
+    </p>
+
+       </div> 
+
+       
+        
     <div class="intro">
 <h5>
     <p> am in love with writing effective code that serves your need </p>
