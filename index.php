@@ -14,12 +14,31 @@
 
 </head>
 <body class="">
-
+ 
     <div class="table section">  
-        
+    <?php 
+    $t = date("H");
+
+    if ($t <= "11") {
+      echo "Good Morning!";
+    }
+    elseif($t <= "17") {
+        echo "Good Afternoon!";
+      }
+
+    elseif($t >="18") {
+        echo "Good Evening!";
+    }  ?>
+    <div class="row ">
+        <h3 class="col-sm-1" > </h3>
+        <div class="col-sm-2 name" ><h3>I </h3></div>
+    </div>
+    <div class="row ">
+        <h3 class="col-sm-2" > </h3>
+        <div class="col-sm-2 name" ><h3>Am </h3></div>
+    </div>
        <div class="name">Bakare Yusuf</div>   
-       <br>
-<br>
+    
 <div class="intro">
 <h5>
         <p> 
@@ -47,18 +66,29 @@
             </ul>
         </div>
         <div class="col-sm-6">
+        <div class="name"> Skills</div>
+      
+      <ul>
+          <li> Proficient with HTML5</li>
+           <li>Vast with CSS and BootStrap for styling</li>
+           <li> Good Understanding of Javascript and Vue.js as framework of choice </li>
+           <li> Back-End with Php and Laravel </li>
 
-        <img  src="img/portfolio.jpg" alt="">
+
+       </ul>
+  
+        
+        </div>
+       
+        
+
+
+           
         </div>
         <div class="row">
 <div class="col-sm-12 name"> Projects </div>
 
 
-        </div>
-        
-
-
-           
         </div>
         
     </div>
