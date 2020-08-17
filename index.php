@@ -39,8 +39,8 @@
     </div>
     -->
        <div class="name">Bakare Yusuf
-      <p> <a href="https://github.com/tynzn"><img src="img/Github-Mark.png" alt="" class="logo-img"></a>
-      <a href="https://twitter.com/Yeagit_ng"><img src="img/twitter.png" alt="" class="logo-img"></a>
+      <p> <a href="https://github.com/tynzn"><Github</a>
+      <a href="https://twitter.com/Yeagit_ng">Twitter</a>
     
     </p>
 
