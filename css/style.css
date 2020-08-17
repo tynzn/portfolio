@@ -26,9 +26,12 @@
    }
 
 .subsection{
-    padding: 5%;
-    
-    ;
+    background-color: inherit;
+    color:inherit
+}   
+.subsection:hover{
+    Background-color:white;
+    color:black;
 }
 
 .name{

@@ -15,7 +15,7 @@
 </head>
 <body class="">
  
-    <div class="table section">  
+    <div class="table container section">  
     <?php 
     $t = date("H");
 
@@ -39,29 +39,22 @@
     </div>
     -->
        <div class="name">Bakare Yusuf
-       </div>
-      <div class="logo"> <a href="https://github.com/tynzn">Github</a>
-      <a href="https://twitter.com/Yeagit_ng">Twitter</a>
-</div>
-
-        
-
-       
-        
-    <div class="intro">
-<h5>
-    <p> am in love with writing effective code that serves your need </p>
-     <p>I program Website applications and Websites using Php and Javascript  </p>
-</div>
-</h5>
-        <div class="row container main-bar">
-            <a href="" class="col-4 btn link " >About</a>
-            <a href="" class="col-4 btn  link">Projects</a>
-            <a href="" class="col-4 btn link">Contact</a>
+            <div class="intro">
+                    <h5>
+                        <p> am in love with writing effective code that serves your need </p>
+                        <p>I program Website applications and Websites using Php and Javascript  </p>
+                    </h5>
+            </div>
         </div>
 
-        <div class="row  container">
-        <div class="col-sm-6">
+        <div class="row  main-bar">
+            <a href="" class="col-4 btn link " >About</a>
+            <a href="" class="col-4 btn  link">Projects</a>
+            <a href="contact.php" class="col-4 btn link">Contact</a>
+        </div>
+
+        <div class="row  ">
+        <div class="col-sm-6 subsection">
         <div class="name"> Goals</div>
       
            <ul>
@@ -71,30 +64,22 @@
 
             </ul>
         </div>
-        <div class="col-sm-6">
-        <div class="name"> Skills</div>
+        <div class="col-sm-6 subsection">
+            <div class="name"> Skills</div>
       
-      <ul>
-          <li> Proficient with HTML5</li>
-           <li>Vast with CSS and BootStrap for styling</li>
-           <li> Good Understanding of Javascript and Vue.js as framework of choice </li>
-           <li> Back-End with Php and Laravel </li>
+                <ul>
+                    <li> Proficient with HTML5</li>
+                    <li>Vast with CSS and BootStrap for styling</li>
+                    <li> Good Understanding of Javascript and Vue.js as framework of choice </li>
+                    <li> Back-End with Php and Laravel </li>
 
 
-       </ul>
-  
-        
-        </div>
+                </ul>
+            </div>
        
-        
-
-
-           
         </div>
         <div class="row">
-<div class="col-sm-12 name"> Projects </div>
-
-
+            <div class="col-sm-12 name"> Projects </div>
         </div>
         
     </div>
