@@ -28,7 +28,7 @@
 
     elseif($t >="18") {
         echo "Good Evening!";
-    }  ?>
+    }  ?><!--
     <div class="row ">
         <h3 class="col-sm-1" > </h3>
         <div class="col-sm-2 name" ><h3>I </h3></div>
@@ -37,6 +37,7 @@
         <h3 class="col-sm-2" > </h3>
         <div class="col-sm-2 name" ><h3>Am </h3></div>
     </div>
+    -->
        <div class="name">Bakare Yusuf</div>   
     
 <div class="intro">
