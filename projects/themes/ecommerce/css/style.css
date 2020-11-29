@@ -1,24 +1,29 @@
 #header-bar{
-    background-color: rgb(216, 224, 231); 
+    background-color: rgb(216, 229, 239);    
     padding-left: 3.5%;
     
 }
 #head-menu{
     
     align-content: center;
-    margin-left:5%;
-    margin-top:2%;
     position: sticky;
     top:1px;
+    z-index:1;
+    background-color:white;
+    padding-left:5.5%;
+    padding-top:0.5%;
+    padding-right:0.5%;
+    padding-bottom:0.5%;
 }
 #search-bar{
     
     border-radius: 20px;
-    border-color: rgb(207, 224, 240);
+    border-color: rgb(218, 231, 235);
     border-style: solid;
     border-width: 1px;
     font-size: large; 
     padding:0.5%;
+    background-color: white;
     
     
 }
@@ -31,7 +36,7 @@
 
 #header-sub-menu{
     margin-left:5%;  
-    margin-top:1%; 
+   
 }
 #menu-bar{
     background-color: rgba(210, 225, 240, 0.972);

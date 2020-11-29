@@ -1,0 +1,23 @@
+#head-menu{
+    margin-left: 5%;
+    margin-right:5%;
+    margin-top:2%;
+    width: 90%;
+}
+#menu-nav{
+    padding-left:5%;
+}
+
+#head-tag{
+    margin-left: 5%;
+    margin-right:5%;
+    margin-top:2%;
+    width: 90%;
+    text-align: center;
+
+}
+
+#tagline{
+    text-orientation: upright;
+    
+}
